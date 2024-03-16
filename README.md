@@ -2,7 +2,7 @@
 ## Hi, I'm Bugatt 🌝
 
 ##### My github page is a collection of projects I have completed and projects that I am currently working on.
-#### Interested in: Machine Learning and Neural Networks with applications in quantiative finance.
+### Interested in: Machine Learning and Neural Networks with applications in quantiative finance.
 #### I'm currently working on: Price prediction with Deep Learning using Limit Order Books. Updated 16/3/2024.
 
 ----
