@@ -1,2 +1,3 @@
-Projects that I have fininished/am working on.
+This page features projects that I have worked on.
+I am interested in Deep Learning.
 
