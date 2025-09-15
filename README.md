@@ -6,4 +6,3 @@ Currently partnering with a travelling agency to build the entire AI-powered pla
 
 Common FAQs: yes I'm named after Bugatti, yes my dad likes cars
 
-![](https://komarev.com/ghpvc/?username=bugattmark)
