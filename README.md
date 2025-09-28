@@ -20,5 +20,5 @@
 - social media bots of all kinds
 - scripts to make my life better
 
-Hackathon project codes:
-Tomoro.ai's Hackathon(28/9/2025): [InspiredSearch - AI-Powered Research Paper Network: identify paper limitations & research areas FAST](https://github.com/bugattmark/InspiredSearch/)
+Hackathon project codes (MORE TO COME!!):
+- Tomoro.ai's Hackathon(28/9/2025): [InspiredSearch - AI-Powered Research Paper Network: identify paper limitations & research areas FAST](https://github.com/bugattmark/InspiredSearch/)
