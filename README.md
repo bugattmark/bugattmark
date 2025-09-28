@@ -13,12 +13,12 @@
 - [Algotrading BTC on AWS for +9.6% growth in wallet]()
 
 ### I tinkered with (POC/solves pain point in my life):
-- mass web scraping
-- fine tuning models from scratch
-- voice agents from scratch
+- mass web scraping (headless)
+- fine tuning models from scratch (lots of ML)
+- voice agents from scratch (sagemaker, localized)
 - medAI dataset cleaning
-- social media bots of all kinds
-- scripts to make my life better
+- social media bots of all kinds (just for server moderating)
+- scripts to make my life better (mostly premade code for housekeeping)
 
 Hackathon project codes (MORE TO COME!!):
 - Tomoro.ai's Hackathon(28/9/2025): [InspiredSearch - AI-Powered Research Paper Network: identify paper limitations & research areas FAST](https://github.com/bugattmark/InspiredSearch/)
