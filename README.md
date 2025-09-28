@@ -6,8 +6,8 @@
 - interned at Botnoi -> built cool AI agent project, python lib for whisper models inputs, did research into meta learning 
 - interned at GoUpscale -> built python lib for preprocessing super dense fin docs, learnt basic SWE lifeskills
 
-### Projects I built (most notable)
-- [ML architecture with ViT + temporal transformer to match T1 and fMRI scans in latent space.](https://github.com/bugattmark/Structure-Function-Brain)
+### Projects I built (most notable):
+- [ML architecture with ViT + temporal transformer to match T1 and fMRI scans in latent space](https://github.com/bugattmark/Structure-Function-Brain)
 - [2nd place @ ISA Coding Competition: Black scholes' GBM driven trading simulator with sentiment shocks](https://github.com/bugattmark/Trading-Simulator)
 - [ML alpha extraction pipeline from top 100 tickers](https://github.com/bugattmark/Portfolio-ML)
 - [Algotrading BTC on AWS for +9.6% growth in wallet]()
