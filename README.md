@@ -10,7 +10,7 @@
 - [ML architecture with ViT + temporal transformer to match T1 and fMRI scans in latent space](https://github.com/bugattmark/Structure-Function-Brain)
 - [2nd place @ ISA Coding Competition: Black scholes' GBM driven trading simulator with sentiment shocks](https://github.com/bugattmark/Trading-Simulator)
 - [ML alpha extraction pipeline from top 100 tickers](https://github.com/bugattmark/Portfolio-ML)
-- [Algotrading BTC on AWS for +9.6% growth in wallet]()
+- [Algotrading BTC on AWS for +9.6% growth in wallet](https://github.com/bugattmark/Trading-Simulator)
 
 ### I tinkered with (POC/solves pain point in my life):
 - mass web scraping (headless)
