@@ -1,8 +1,24 @@
-### Hi, I'm Bugatt 🙂
+# Sup, tl;dr, all u need to know below
 
-I'm Building **Provethat** solo, I do AI consultancy to provide solutions for firms looking to adopt AI in their workflows.
+### Cool things I've done (more on CV):
+- with provethat (startup i'm building)'s chatbot + backend -> built an entire AI infra for a travelling agency to help tourists in Thailand book trips and stay safe.
+- interend at Deepinvest -> concurrent trade execution engine, port rebalancing engine, invester comps
+- interned at Botnoi -> built cool AI agent project, python lib for whisper models inputs, did research into meta learning 
+- interned at GoUpscale -> built python lib for preprocessing super dense fin docs, learnt basic SWE lifeskills
 
-Currently partnering with a travelling agency to build the entire AI-powered platform to support customers throughout their journeys, from prebooking help, to emergency services and after-service care.
+### Projects I built (most notable)
+- [ML architecture with ViT + temporal transformer to match T1 and fMRI scans in latent space.](https://github.com/bugattmark/Structure-Function-Brain)
+- [2nd place @ ISA Coding Competition: Black scholes' GBM driven trading simulator with sentiment shocks](https://github.com/bugattmark/Trading-Simulator)
+- [ML alpha extraction pipeline from top 100 tickers](https://github.com/bugattmark/Portfolio-ML)
+- [Algotrading BTC on AWS for +9.6% growth in wallet]()
 
-Common FAQs: yes I'm named after Bugatti, yes my dad likes cars
+### I tinkered with (POC/solves pain point in my life):
+- mass web scraping
+- fine tuning models from scratch
+- voice agents from scratch
+- medAI dataset cleaning
+- social media bots of all kinds
+- scripts to make my life better
 
+Hackathon project codes:
+Tomoro.ai's Hackathon(28/9/2025): [InspiredSearch - AI-Powered Research Paper Network: identify paper limitations & research areas FAST](https://github.com/bugattmark/InspiredSearch/)
