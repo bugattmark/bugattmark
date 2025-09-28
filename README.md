@@ -1,6 +1,6 @@
 # Sup, tl;dr, all u need to know below
 
-### Cool things I've done (more on CV):
+### Cool things I've done (quantified impacts on CV):
 - with provethat (startup i'm building)'s chatbot + backend -> built an entire AI infra for a travelling agency to help tourists in Thailand book trips and stay safe.
 - interend at Deepinvest -> concurrent trade execution engine, port rebalancing engine, invester comps
 - interned at Botnoi -> built cool AI agent project, python lib for whisper models inputs, did research into meta learning 
