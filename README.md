@@ -1,4 +1,4 @@
-# Sup, all u need to know below
+# Sup, all u need to know below (unupdated)
 
 ### 1. Cool things I've done (quantified impacts on CV):
 - with provethat (startup i'm building)'s chatbot + backend -> built an entire AI infra for a travelling agency to help tourists in Thailand book trips and stay safe.
