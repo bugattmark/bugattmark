@@ -1,6 +1,8 @@
 # Sup, all u need to know below (unupdated)
 
-### 1. Cool things I've done (quantified impacts on CV):
+Working at Saturn (YC 24), breaking and building lots.
+
+### 1. Cool things I've done in the past (quantified impacts on CV):
 - with provethat (startup i'm building)'s chatbot + backend -> built an entire AI infra for a travelling agency to help tourists in Thailand book trips and stay safe.
 - interned at Deepinvest -> concurrent trade execution engine, port rebalancing engine, invester comps
 - interned at Botnoi -> built cool AI agent project, python lib for whisper models inputs, did research into meta learning 
