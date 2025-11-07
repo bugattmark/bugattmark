@@ -1,6 +1,6 @@
 # Sup, all u need to know below (unupdated)
 
-Working at Saturn (YC 24), breaking and building lots.
+## Currently Working at Saturn (YC 24), breaking and building lots of things.
 
 ### 1. Cool things I've done in the past (quantified impacts on CV):
 - with provethat (startup i'm building)'s chatbot + backend -> built an entire AI infra for a travelling agency to help tourists in Thailand book trips and stay safe.
